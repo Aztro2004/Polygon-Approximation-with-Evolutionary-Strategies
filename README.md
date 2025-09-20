@@ -38,3 +38,11 @@ Example of a 200 point individual approximating a sphere.
 
 ## Dependencies
 
+- Scipy ConvexHull: https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.ConvexHull.html
+
+- Scipy Delunay: https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.Delaunay.html
+
+- Numpy: https://numpy.org/
+
+- Math: https://docs.python.org/3/library/math.html
+
