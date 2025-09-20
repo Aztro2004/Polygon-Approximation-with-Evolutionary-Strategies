@@ -1,4 +1,4 @@
-# PPolygon-Approximation-with-Evolutionary-Strategies
+# Polygon-Approximation-with-Evolutionary-Strategies
 
 Final proyect for the class of Evolutionary Computing at UNAM ENES Unidad Morelia.
 
